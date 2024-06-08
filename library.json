@@ -1,0 +1,7 @@
+{
+    "name": "Fusion-pio",
+    "version": "1.2.5",
+    "license": "MIT",
+    "frameworks": "*",
+    "platforms": "*"
+}
